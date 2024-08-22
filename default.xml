@@ -17,7 +17,7 @@
         <linkfile src="build_alioth.sh" dest="build_alioth.sh" />
     </project>
     <project path="prebuilts/gas/linux-x86" name="platform/prebuilts/gas/linux-x86" clone-depth="1" revision="b2a189331333e014bfef4c0425b3ef4b74accdd0" remote="aosp" />
-    <project path="prebuilts-master/clang/host/linux-x86" name="platform/prebuilts/clang/host/linux-x86" revision="159c6d72f942cdab23d9ac6bd65b1e5f68a8b5a8" clone-depth="1" groups="partner" remote="aosp" />
+    <project path="prebuilts-master/clang/host/linux-x86" name="platform/prebuilts/clang/host/linux-x86" revision="470061cc79744d57398010d8c16018bb03c12c43" clone-depth="1" groups="partner" remote="aosp" />
     <project path="prebuilts-master/misc" name="platform/prebuilts/misc" revision="15560bb32cdb9b47db48eb4865b736df9708a8fe" clone-depth="1" groups="partner" remote="aosp" />
     <project path="tools/mkbootimg" name="platform/system/tools/mkbootimg" revision="34bc8bfb493401f7aadbd3b434f9fbfa521e9301" clone-depth="1" groups="partner" remote="aosp" />
     <project path="prebuilts/build-tools" name="platform/prebuilts/build-tools" clone-depth="1" revision="cfedc16ec3deb680fca6fe2aff44a1837a97b50d" groups="partner" remote="aosp" />
